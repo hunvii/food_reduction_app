@@ -1,0 +1,1087 @@
+date,item_name,quantity_sold,temperature,is_holiday,day_of_week
+01-01-2025,Dosa,101,34,0,Wednesday
+01-01-2025,Biryani,3,34,0,Wednesday
+01-01-2025,Chicken Popcorn,18,34,0,Wednesday
+01-01-2025,Coffee,143,34,0,Wednesday
+01-01-2025,Tea,134,34,0,Wednesday
+01-01-2025,Juice,96,34,0,Wednesday
+02-01-2025,Dosa,93,36.4,0,Thursday
+02-01-2025,Biryani,0,36.4,0,Thursday
+02-01-2025,Chicken Popcorn,0,36.4,0,Thursday
+02-01-2025,Coffee,136,36.4,0,Thursday
+02-01-2025,Tea,132,36.4,0,Thursday
+02-01-2025,Juice,101,36.4,0,Thursday
+03-01-2025,Dosa,114,34.3,0,Friday
+03-01-2025,Biryani,0,34.3,0,Friday
+03-01-2025,Chicken Popcorn,0,34.3,0,Friday
+03-01-2025,Coffee,133,34.3,0,Friday
+03-01-2025,Tea,137,34.3,0,Friday
+03-01-2025,Juice,90,34.3,0,Friday
+04-01-2025,Dosa,67,36.3,0,Saturday
+04-01-2025,Biryani,0,36.3,0,Saturday
+04-01-2025,Chicken Popcorn,17,36.3,0,Saturday
+04-01-2025,Coffee,99,36.3,0,Saturday
+04-01-2025,Tea,90,36.3,0,Saturday
+04-01-2025,Juice,61,36.3,0,Saturday
+05-01-2025,Dosa,79,35.2,0,Sunday
+05-01-2025,Biryani,0,35.2,0,Sunday
+05-01-2025,Chicken Popcorn,0,35.2,0,Sunday
+05-01-2025,Coffee,89,35.2,0,Sunday
+05-01-2025,Tea,93,35.2,0,Sunday
+05-01-2025,Juice,61,35.2,0,Sunday
+06-01-2025,Dosa,92,28.4,0,Monday
+06-01-2025,Biryani,2,28.4,0,Monday
+06-01-2025,Chicken Popcorn,7,28.4,0,Monday
+06-01-2025,Coffee,181,28.4,0,Monday
+06-01-2025,Tea,142,28.4,0,Monday
+06-01-2025,Juice,62,28.4,0,Monday
+07-01-2025,Dosa,84,30.2,0,Tuesday
+07-01-2025,Biryani,2,30.2,0,Tuesday
+07-01-2025,Chicken Popcorn,19,30.2,0,Tuesday
+07-01-2025,Coffee,141,30.2,0,Tuesday
+07-01-2025,Tea,121,30.2,0,Tuesday
+07-01-2025,Juice,78,30.2,0,Tuesday
+08-01-2025,Dosa,88,32.6,0,Wednesday
+08-01-2025,Biryani,11,32.6,0,Wednesday
+08-01-2025,Chicken Popcorn,8,32.6,0,Wednesday
+08-01-2025,Coffee,149,32.6,0,Wednesday
+08-01-2025,Tea,121,32.6,0,Wednesday
+08-01-2025,Juice,78,32.6,0,Wednesday
+09-01-2025,Dosa,103,35.9,0,Thursday
+09-01-2025,Biryani,0,35.9,0,Thursday
+09-01-2025,Chicken Popcorn,0,35.9,0,Thursday
+09-01-2025,Coffee,133,35.9,0,Thursday
+09-01-2025,Tea,125,35.9,0,Thursday
+09-01-2025,Juice,87,35.9,0,Thursday
+10-01-2025,Dosa,96,32.9,0,Friday
+10-01-2025,Biryani,0,32.9,0,Friday
+10-01-2025,Chicken Popcorn,0,32.9,0,Friday
+10-01-2025,Coffee,171,32.9,0,Friday
+10-01-2025,Tea,122,32.9,0,Friday
+10-01-2025,Juice,72,32.9,0,Friday
+11-01-2025,Dosa,28,33.9,1,Saturday
+11-01-2025,Biryani,0,33.9,1,Saturday
+11-01-2025,Chicken Popcorn,0,33.9,1,Saturday
+11-01-2025,Coffee,53,33.9,1,Saturday
+11-01-2025,Tea,23,33.9,1,Saturday
+11-01-2025,Juice,35,33.9,1,Saturday
+12-01-2025,Dosa,76,33.1,0,Sunday
+12-01-2025,Biryani,5,33.1,0,Sunday
+12-01-2025,Chicken Popcorn,0,33.1,0,Sunday
+12-01-2025,Coffee,98,33.1,0,Sunday
+12-01-2025,Tea,108,33.1,0,Sunday
+12-01-2025,Juice,67,33.1,0,Sunday
+13-01-2025,Dosa,107,34.9,0,Monday
+13-01-2025,Biryani,1,34.9,0,Monday
+13-01-2025,Chicken Popcorn,0,34.9,0,Monday
+13-01-2025,Coffee,143,34.9,0,Monday
+13-01-2025,Tea,142,34.9,0,Monday
+13-01-2025,Juice,95,34.9,0,Monday
+14-01-2025,Dosa,101,31.9,0,Tuesday
+14-01-2025,Biryani,1,31.9,0,Tuesday
+14-01-2025,Chicken Popcorn,3,31.9,0,Tuesday
+14-01-2025,Coffee,126,31.9,0,Tuesday
+14-01-2025,Tea,113,31.9,0,Tuesday
+14-01-2025,Juice,82,31.9,0,Tuesday
+15-01-2025,Dosa,97,33.8,0,Wednesday
+15-01-2025,Biryani,0,33.8,0,Wednesday
+15-01-2025,Chicken Popcorn,0,33.8,0,Wednesday
+15-01-2025,Coffee,166,33.8,0,Wednesday
+15-01-2025,Tea,143,33.8,0,Wednesday
+15-01-2025,Juice,106,33.8,0,Wednesday
+16-01-2025,Dosa,102,41.1,0,Thursday
+16-01-2025,Biryani,8,41.1,0,Thursday
+16-01-2025,Chicken Popcorn,0,41.1,0,Thursday
+16-01-2025,Coffee,142,41.1,0,Thursday
+16-01-2025,Tea,133,41.1,0,Thursday
+16-01-2025,Juice,98,41.1,0,Thursday
+17-01-2025,Dosa,102,28.8,0,Friday
+17-01-2025,Biryani,0,28.8,0,Friday
+17-01-2025,Chicken Popcorn,0,28.8,0,Friday
+17-01-2025,Coffee,191,28.8,0,Friday
+17-01-2025,Tea,156,28.8,0,Friday
+17-01-2025,Juice,62,28.8,0,Friday
+18-01-2025,Dosa,53,35.7,0,Saturday
+18-01-2025,Biryani,0,35.7,0,Saturday
+18-01-2025,Chicken Popcorn,10,35.7,0,Saturday
+18-01-2025,Coffee,113,35.7,0,Saturday
+18-01-2025,Tea,97,35.7,0,Saturday
+18-01-2025,Juice,64,35.7,0,Saturday
+19-01-2025,Dosa,25,33.4,1,Sunday
+19-01-2025,Biryani,0,33.4,1,Sunday
+19-01-2025,Chicken Popcorn,0,33.4,1,Sunday
+19-01-2025,Coffee,44,33.4,1,Sunday
+19-01-2025,Tea,31,33.4,1,Sunday
+19-01-2025,Juice,37,33.4,1,Sunday
+20-01-2025,Dosa,48,26.8,1,Monday
+20-01-2025,Biryani,0,26.8,1,Monday
+20-01-2025,Chicken Popcorn,0,26.8,1,Monday
+20-01-2025,Coffee,70,26.8,1,Monday
+20-01-2025,Tea,49,26.8,1,Monday
+20-01-2025,Juice,21,26.8,1,Monday
+21-01-2025,Dosa,104,31.6,0,Tuesday
+21-01-2025,Biryani,7,31.6,0,Tuesday
+21-01-2025,Chicken Popcorn,0,31.6,0,Tuesday
+21-01-2025,Coffee,138,31.6,0,Tuesday
+21-01-2025,Tea,132,31.6,0,Tuesday
+21-01-2025,Juice,64,31.6,0,Tuesday
+22-01-2025,Dosa,90,31.5,0,Wednesday
+22-01-2025,Biryani,8,31.5,0,Wednesday
+22-01-2025,Chicken Popcorn,4,31.5,0,Wednesday
+22-01-2025,Coffee,162,31.5,0,Wednesday
+22-01-2025,Tea,133,31.5,0,Wednesday
+22-01-2025,Juice,74,31.5,0,Wednesday
+23-01-2025,Dosa,82,30,0,Thursday
+23-01-2025,Biryani,0,30,0,Thursday
+23-01-2025,Chicken Popcorn,0,30,0,Thursday
+23-01-2025,Coffee,144,30,0,Thursday
+23-01-2025,Tea,116,30,0,Thursday
+23-01-2025,Juice,77,30,0,Thursday
+24-01-2025,Dosa,42,31.5,1,Friday
+24-01-2025,Biryani,0,31.5,1,Friday
+24-01-2025,Chicken Popcorn,0,31.5,1,Friday
+24-01-2025,Coffee,57,31.5,1,Friday
+24-01-2025,Tea,60,31.5,1,Friday
+24-01-2025,Juice,42,31.5,1,Friday
+25-01-2025,Dosa,25,28.6,1,Saturday
+25-01-2025,Biryani,13,28.6,1,Saturday
+25-01-2025,Chicken Popcorn,0,28.6,1,Saturday
+25-01-2025,Coffee,34,28.6,1,Saturday
+25-01-2025,Tea,42,28.6,1,Saturday
+25-01-2025,Juice,30,28.6,1,Saturday
+26-01-2025,Dosa,87,33.6,0,Sunday
+26-01-2025,Biryani,0,33.6,0,Sunday
+26-01-2025,Chicken Popcorn,0,33.6,0,Sunday
+26-01-2025,Coffee,113,33.6,0,Sunday
+26-01-2025,Tea,95,33.6,0,Sunday
+26-01-2025,Juice,69,33.6,0,Sunday
+27-01-2025,Dosa,106,33.3,0,Monday
+27-01-2025,Biryani,0,33.3,0,Monday
+27-01-2025,Chicken Popcorn,0,33.3,0,Monday
+27-01-2025,Coffee,140,33.3,0,Monday
+27-01-2025,Tea,108,33.3,0,Monday
+27-01-2025,Juice,109,33.3,0,Monday
+28-01-2025,Dosa,90,34.1,0,Tuesday
+28-01-2025,Biryani,0,34.1,0,Tuesday
+28-01-2025,Chicken Popcorn,0,34.1,0,Tuesday
+28-01-2025,Coffee,150,34.1,0,Tuesday
+28-01-2025,Tea,160,34.1,0,Tuesday
+28-01-2025,Juice,102,34.1,0,Tuesday
+29-01-2025,Dosa,96,34.2,0,Wednesday
+29-01-2025,Biryani,0,34.2,0,Wednesday
+29-01-2025,Chicken Popcorn,7,34.2,0,Wednesday
+29-01-2025,Coffee,151,34.2,0,Wednesday
+29-01-2025,Tea,135,34.2,0,Wednesday
+29-01-2025,Juice,97,34.2,0,Wednesday
+30-01-2025,Dosa,88,32,0,Thursday
+30-01-2025,Biryani,7,32,0,Thursday
+30-01-2025,Chicken Popcorn,13,32,0,Thursday
+30-01-2025,Coffee,126,32,0,Thursday
+30-01-2025,Tea,125,32,0,Thursday
+30-01-2025,Juice,72,32,0,Thursday
+31-01-2025,Dosa,93,29.5,0,Friday
+31-01-2025,Biryani,1,29.5,0,Friday
+31-01-2025,Chicken Popcorn,14,29.5,0,Friday
+31-01-2025,Coffee,179,29.5,0,Friday
+31-01-2025,Tea,155,29.5,0,Friday
+31-01-2025,Juice,73,29.5,0,Friday
+01-02-2025,Dosa,87,29.7,0,Saturday
+01-02-2025,Biryani,0,29.7,0,Saturday
+01-02-2025,Chicken Popcorn,0,29.7,0,Saturday
+01-02-2025,Coffee,126,29.7,0,Saturday
+01-02-2025,Tea,108,29.7,0,Saturday
+01-02-2025,Juice,61,29.7,0,Saturday
+02-02-2025,Dosa,53,28.5,0,Sunday
+02-02-2025,Biryani,11,28.5,0,Sunday
+02-02-2025,Chicken Popcorn,0,28.5,0,Sunday
+02-02-2025,Coffee,145,28.5,0,Sunday
+02-02-2025,Tea,95,28.5,0,Sunday
+02-02-2025,Juice,36,28.5,0,Sunday
+03-02-2025,Dosa,81,33.5,0,Monday
+03-02-2025,Biryani,0,33.5,0,Monday
+03-02-2025,Chicken Popcorn,0,33.5,0,Monday
+03-02-2025,Coffee,154,33.5,0,Monday
+03-02-2025,Tea,131,33.5,0,Monday
+03-02-2025,Juice,111,33.5,0,Monday
+04-02-2025,Dosa,94,33.8,0,Tuesday
+04-02-2025,Biryani,1,33.8,0,Tuesday
+04-02-2025,Chicken Popcorn,0,33.8,0,Tuesday
+04-02-2025,Coffee,169,33.8,0,Tuesday
+04-02-2025,Tea,124,33.8,0,Tuesday
+04-02-2025,Juice,109,33.8,0,Tuesday
+05-02-2025,Dosa,116,32,0,Wednesday
+05-02-2025,Biryani,0,32,0,Wednesday
+05-02-2025,Chicken Popcorn,16,32,0,Wednesday
+05-02-2025,Coffee,144,32,0,Wednesday
+05-02-2025,Tea,126,32,0,Wednesday
+05-02-2025,Juice,79,32,0,Wednesday
+06-02-2025,Dosa,104,34.9,0,Thursday
+06-02-2025,Biryani,0,34.9,0,Thursday
+06-02-2025,Chicken Popcorn,12,34.9,0,Thursday
+06-02-2025,Coffee,154,34.9,0,Thursday
+06-02-2025,Tea,126,34.9,0,Thursday
+06-02-2025,Juice,85,34.9,0,Thursday
+07-02-2025,Dosa,114,34.2,0,Friday
+07-02-2025,Biryani,5,34.2,0,Friday
+07-02-2025,Chicken Popcorn,4,34.2,0,Friday
+07-02-2025,Coffee,151,34.2,0,Friday
+07-02-2025,Tea,132,34.2,0,Friday
+07-02-2025,Juice,74,34.2,0,Friday
+08-02-2025,Dosa,78,33.2,0,Saturday
+08-02-2025,Biryani,0,33.2,0,Saturday
+08-02-2025,Chicken Popcorn,2,33.2,0,Saturday
+08-02-2025,Coffee,110,33.2,0,Saturday
+08-02-2025,Tea,91,33.2,0,Saturday
+08-02-2025,Juice,66,33.2,0,Saturday
+09-02-2025,Dosa,57,38.5,0,Sunday
+09-02-2025,Biryani,0,38.5,0,Sunday
+09-02-2025,Chicken Popcorn,0,38.5,0,Sunday
+09-02-2025,Coffee,109,38.5,0,Sunday
+09-02-2025,Tea,87,38.5,0,Sunday
+09-02-2025,Juice,54,38.5,0,Sunday
+10-02-2025,Dosa,104,28,0,Monday
+10-02-2025,Biryani,0,28,0,Monday
+10-02-2025,Chicken Popcorn,7,28,0,Monday
+10-02-2025,Coffee,175,28,0,Monday
+10-02-2025,Tea,167,28,0,Monday
+10-02-2025,Juice,81,28,0,Monday
+11-02-2025,Dosa,102,35.5,0,Tuesday
+11-02-2025,Biryani,14,35.5,0,Tuesday
+11-02-2025,Chicken Popcorn,14,35.5,0,Tuesday
+11-02-2025,Coffee,145,35.5,0,Tuesday
+11-02-2025,Tea,118,35.5,0,Tuesday
+11-02-2025,Juice,97,35.5,0,Tuesday
+12-02-2025,Dosa,76,37.2,0,Wednesday
+12-02-2025,Biryani,4,37.2,0,Wednesday
+12-02-2025,Chicken Popcorn,29,37.2,0,Wednesday
+12-02-2025,Coffee,158,37.2,0,Wednesday
+12-02-2025,Tea,117,37.2,0,Wednesday
+12-02-2025,Juice,87,37.2,0,Wednesday
+13-02-2025,Dosa,102,39,0,Thursday
+13-02-2025,Biryani,0,39,0,Thursday
+13-02-2025,Chicken Popcorn,0,39,0,Thursday
+13-02-2025,Coffee,145,39,0,Thursday
+13-02-2025,Tea,126,39,0,Thursday
+13-02-2025,Juice,89,39,0,Thursday
+14-02-2025,Dosa,101,28,0,Friday
+14-02-2025,Biryani,20,28,0,Friday
+14-02-2025,Chicken Popcorn,0,28,0,Friday
+14-02-2025,Coffee,202,28,0,Friday
+14-02-2025,Tea,176,28,0,Friday
+14-02-2025,Juice,81,28,0,Friday
+15-02-2025,Dosa,54,31.9,0,Saturday
+15-02-2025,Biryani,14,31.9,0,Saturday
+15-02-2025,Chicken Popcorn,25,31.9,0,Saturday
+15-02-2025,Coffee,79,31.9,0,Saturday
+15-02-2025,Tea,81,31.9,0,Saturday
+15-02-2025,Juice,52,31.9,0,Saturday
+16-02-2025,Dosa,71,30.2,0,Sunday
+16-02-2025,Biryani,0,30.2,0,Sunday
+16-02-2025,Chicken Popcorn,10,30.2,0,Sunday
+16-02-2025,Coffee,112,30.2,0,Sunday
+16-02-2025,Tea,104,30.2,0,Sunday
+16-02-2025,Juice,58,30.2,0,Sunday
+17-02-2025,Dosa,106,27.1,0,Monday
+17-02-2025,Biryani,2,27.1,0,Monday
+17-02-2025,Chicken Popcorn,22,27.1,0,Monday
+17-02-2025,Coffee,177,27.1,0,Monday
+17-02-2025,Tea,153,27.1,0,Monday
+17-02-2025,Juice,64,27.1,0,Monday
+18-02-2025,Dosa,112,28.6,0,Tuesday
+18-02-2025,Biryani,0,28.6,0,Tuesday
+18-02-2025,Chicken Popcorn,0,28.6,0,Tuesday
+18-02-2025,Coffee,166,28.6,0,Tuesday
+18-02-2025,Tea,164,28.6,0,Tuesday
+18-02-2025,Juice,87,28.6,0,Tuesday
+19-02-2025,Dosa,95,31.4,0,Wednesday
+19-02-2025,Biryani,0,31.4,0,Wednesday
+19-02-2025,Chicken Popcorn,10,31.4,0,Wednesday
+19-02-2025,Coffee,153,31.4,0,Wednesday
+19-02-2025,Tea,136,31.4,0,Wednesday
+19-02-2025,Juice,66,31.4,0,Wednesday
+20-02-2025,Dosa,95,34.2,0,Thursday
+20-02-2025,Biryani,19,34.2,0,Thursday
+20-02-2025,Chicken Popcorn,0,34.2,0,Thursday
+20-02-2025,Coffee,156,34.2,0,Thursday
+20-02-2025,Tea,132,34.2,0,Thursday
+20-02-2025,Juice,81,34.2,0,Thursday
+21-02-2025,Dosa,101,28.6,0,Friday
+21-02-2025,Biryani,0,28.6,0,Friday
+21-02-2025,Chicken Popcorn,0,28.6,0,Friday
+21-02-2025,Coffee,181,28.6,0,Friday
+21-02-2025,Tea,166,28.6,0,Friday
+21-02-2025,Juice,51,28.6,0,Friday
+22-02-2025,Dosa,61,32,0,Saturday
+22-02-2025,Biryani,15,32,0,Saturday
+22-02-2025,Chicken Popcorn,0,32,0,Saturday
+22-02-2025,Coffee,83,32,0,Saturday
+22-02-2025,Tea,92,32,0,Saturday
+22-02-2025,Juice,24,32,0,Saturday
+23-02-2025,Dosa,79,33.5,0,Sunday
+23-02-2025,Biryani,7,33.5,0,Sunday
+23-02-2025,Chicken Popcorn,5,33.5,0,Sunday
+23-02-2025,Coffee,104,33.5,0,Sunday
+23-02-2025,Tea,86,33.5,0,Sunday
+23-02-2025,Juice,65,33.5,0,Sunday
+24-02-2025,Dosa,41,32.5,1,Monday
+24-02-2025,Biryani,15,32.5,1,Monday
+24-02-2025,Chicken Popcorn,0,32.5,1,Monday
+24-02-2025,Coffee,58,32.5,1,Monday
+24-02-2025,Tea,46,32.5,1,Monday
+24-02-2025,Juice,30,32.5,1,Monday
+25-02-2025,Dosa,81,30.2,0,Tuesday
+25-02-2025,Biryani,6,30.2,0,Tuesday
+25-02-2025,Chicken Popcorn,0,30.2,0,Tuesday
+25-02-2025,Coffee,141,30.2,0,Tuesday
+25-02-2025,Tea,148,30.2,0,Tuesday
+25-02-2025,Juice,70,30.2,0,Tuesday
+26-02-2025,Dosa,92,30.6,0,Wednesday
+26-02-2025,Biryani,0,30.6,0,Wednesday
+26-02-2025,Chicken Popcorn,0,30.6,0,Wednesday
+26-02-2025,Coffee,147,30.6,0,Wednesday
+26-02-2025,Tea,130,30.6,0,Wednesday
+26-02-2025,Juice,67,30.6,0,Wednesday
+27-02-2025,Dosa,100,32.5,0,Thursday
+27-02-2025,Biryani,0,32.5,0,Thursday
+27-02-2025,Chicken Popcorn,5,32.5,0,Thursday
+27-02-2025,Coffee,155,32.5,0,Thursday
+27-02-2025,Tea,124,32.5,0,Thursday
+27-02-2025,Juice,65,32.5,0,Thursday
+28-02-2025,Dosa,106,30.7,0,Friday
+28-02-2025,Biryani,11,30.7,0,Friday
+28-02-2025,Chicken Popcorn,6,30.7,0,Friday
+28-02-2025,Coffee,144,30.7,0,Friday
+28-02-2025,Tea,128,30.7,0,Friday
+28-02-2025,Juice,68,30.7,0,Friday
+01-03-2025,Dosa,79,29.7,0,Saturday
+01-03-2025,Biryani,4,29.7,0,Saturday
+01-03-2025,Chicken Popcorn,13,29.7,0,Saturday
+01-03-2025,Coffee,147,29.7,0,Saturday
+01-03-2025,Tea,116,29.7,0,Saturday
+01-03-2025,Juice,56,29.7,0,Saturday
+02-03-2025,Dosa,31,27.2,1,Sunday
+02-03-2025,Biryani,0,27.2,1,Sunday
+02-03-2025,Chicken Popcorn,0,27.2,1,Sunday
+02-03-2025,Coffee,57,27.2,1,Sunday
+02-03-2025,Tea,50,27.2,1,Sunday
+02-03-2025,Juice,9,27.2,1,Sunday
+03-03-2025,Dosa,97,27.2,0,Monday
+03-03-2025,Biryani,0,27.2,0,Monday
+03-03-2025,Chicken Popcorn,3,27.2,0,Monday
+03-03-2025,Coffee,150,27.2,0,Monday
+03-03-2025,Tea,160,27.2,0,Monday
+03-03-2025,Juice,56,27.2,0,Monday
+04-03-2025,Dosa,100,37.3,0,Tuesday
+04-03-2025,Biryani,25,37.3,0,Tuesday
+04-03-2025,Chicken Popcorn,12,37.3,0,Tuesday
+04-03-2025,Coffee,165,37.3,0,Tuesday
+04-03-2025,Tea,142,37.3,0,Tuesday
+04-03-2025,Juice,86,37.3,0,Tuesday
+05-03-2025,Dosa,122,34.7,0,Wednesday
+05-03-2025,Biryani,0,34.7,0,Wednesday
+05-03-2025,Chicken Popcorn,0,34.7,0,Wednesday
+05-03-2025,Coffee,164,34.7,0,Wednesday
+05-03-2025,Tea,120,34.7,0,Wednesday
+05-03-2025,Juice,86,34.7,0,Wednesday
+06-03-2025,Dosa,109,36.5,0,Thursday
+06-03-2025,Biryani,0,36.5,0,Thursday
+06-03-2025,Chicken Popcorn,0,36.5,0,Thursday
+06-03-2025,Coffee,164,36.5,0,Thursday
+06-03-2025,Tea,128,36.5,0,Thursday
+06-03-2025,Juice,84,36.5,0,Thursday
+07-03-2025,Dosa,98,33.2,0,Friday
+07-03-2025,Biryani,0,33.2,0,Friday
+07-03-2025,Chicken Popcorn,0,33.2,0,Friday
+07-03-2025,Coffee,155,33.2,0,Friday
+07-03-2025,Tea,139,33.2,0,Friday
+07-03-2025,Juice,83,33.2,0,Friday
+08-03-2025,Dosa,63,36.8,0,Saturday
+08-03-2025,Biryani,0,36.8,0,Saturday
+08-03-2025,Chicken Popcorn,0,36.8,0,Saturday
+08-03-2025,Coffee,99,36.8,0,Saturday
+08-03-2025,Tea,102,36.8,0,Saturday
+08-03-2025,Juice,66,36.8,0,Saturday
+09-03-2025,Dosa,79,31.3,0,Sunday
+09-03-2025,Biryani,0,31.3,0,Sunday
+09-03-2025,Chicken Popcorn,10,31.3,0,Sunday
+09-03-2025,Coffee,109,31.3,0,Sunday
+09-03-2025,Tea,104,31.3,0,Sunday
+09-03-2025,Juice,33,31.3,0,Sunday
+10-03-2025,Dosa,107,32.6,0,Monday
+10-03-2025,Biryani,2,32.6,0,Monday
+10-03-2025,Chicken Popcorn,0,32.6,0,Monday
+10-03-2025,Coffee,148,32.6,0,Monday
+10-03-2025,Tea,113,32.6,0,Monday
+10-03-2025,Juice,74,32.6,0,Monday
+11-03-2025,Dosa,100,34,0,Tuesday
+11-03-2025,Biryani,8,34,0,Tuesday
+11-03-2025,Chicken Popcorn,14,34,0,Tuesday
+11-03-2025,Coffee,145,34,0,Tuesday
+11-03-2025,Tea,97,34,0,Tuesday
+11-03-2025,Juice,86,34,0,Tuesday
+12-03-2025,Dosa,94,23.5,0,Wednesday
+12-03-2025,Biryani,0,23.5,0,Wednesday
+12-03-2025,Chicken Popcorn,0,23.5,0,Wednesday
+12-03-2025,Coffee,185,23.5,0,Wednesday
+12-03-2025,Tea,149,23.5,0,Wednesday
+12-03-2025,Juice,73,23.5,0,Wednesday
+13-03-2025,Dosa,100,32.7,0,Thursday
+13-03-2025,Biryani,9,32.7,0,Thursday
+13-03-2025,Chicken Popcorn,2,32.7,0,Thursday
+13-03-2025,Coffee,139,32.7,0,Thursday
+13-03-2025,Tea,139,32.7,0,Thursday
+13-03-2025,Juice,76,32.7,0,Thursday
+14-03-2025,Dosa,28,32.2,1,Friday
+14-03-2025,Biryani,0,32.2,1,Friday
+14-03-2025,Chicken Popcorn,10,32.2,1,Friday
+14-03-2025,Coffee,57,32.2,1,Friday
+14-03-2025,Tea,56,32.2,1,Friday
+14-03-2025,Juice,20,32.2,1,Friday
+15-03-2025,Dosa,67,30.7,0,Saturday
+15-03-2025,Biryani,0,30.7,0,Saturday
+15-03-2025,Chicken Popcorn,0,30.7,0,Saturday
+15-03-2025,Coffee,91,30.7,0,Saturday
+15-03-2025,Tea,103,30.7,0,Saturday
+15-03-2025,Juice,62,30.7,0,Saturday
+16-03-2025,Dosa,88,32.6,0,Sunday
+16-03-2025,Biryani,0,32.6,0,Sunday
+16-03-2025,Chicken Popcorn,8,32.6,0,Sunday
+16-03-2025,Coffee,103,32.6,0,Sunday
+16-03-2025,Tea,94,32.6,0,Sunday
+16-03-2025,Juice,46,32.6,0,Sunday
+17-03-2025,Dosa,31,35.9,1,Monday
+17-03-2025,Biryani,0,35.9,1,Monday
+17-03-2025,Chicken Popcorn,5,35.9,1,Monday
+17-03-2025,Coffee,60,35.9,1,Monday
+17-03-2025,Tea,69,35.9,1,Monday
+17-03-2025,Juice,17,35.9,1,Monday
+18-03-2025,Dosa,87,30.1,0,Tuesday
+18-03-2025,Biryani,0,30.1,0,Tuesday
+18-03-2025,Chicken Popcorn,0,30.1,0,Tuesday
+18-03-2025,Coffee,146,30.1,0,Tuesday
+18-03-2025,Tea,135,30.1,0,Tuesday
+18-03-2025,Juice,84,30.1,0,Tuesday
+19-03-2025,Dosa,110,33.7,0,Wednesday
+19-03-2025,Biryani,0,33.7,0,Wednesday
+19-03-2025,Chicken Popcorn,7,33.7,0,Wednesday
+19-03-2025,Coffee,160,33.7,0,Wednesday
+19-03-2025,Tea,133,33.7,0,Wednesday
+19-03-2025,Juice,103,33.7,0,Wednesday
+20-03-2025,Dosa,102,30.1,0,Thursday
+20-03-2025,Biryani,0,30.1,0,Thursday
+20-03-2025,Chicken Popcorn,0,30.1,0,Thursday
+20-03-2025,Coffee,154,30.1,0,Thursday
+20-03-2025,Tea,137,30.1,0,Thursday
+20-03-2025,Juice,74,30.1,0,Thursday
+21-03-2025,Dosa,90,33.6,0,Friday
+21-03-2025,Biryani,7,33.6,0,Friday
+21-03-2025,Chicken Popcorn,0,33.6,0,Friday
+21-03-2025,Coffee,130,33.6,0,Friday
+21-03-2025,Tea,136,33.6,0,Friday
+21-03-2025,Juice,95,33.6,0,Friday
+22-03-2025,Dosa,71,38.6,0,Saturday
+22-03-2025,Biryani,0,38.6,0,Saturday
+22-03-2025,Chicken Popcorn,2,38.6,0,Saturday
+22-03-2025,Coffee,119,38.6,0,Saturday
+22-03-2025,Tea,99,38.6,0,Saturday
+22-03-2025,Juice,66,38.6,0,Saturday
+23-03-2025,Dosa,83,29.3,0,Sunday
+23-03-2025,Biryani,0,29.3,0,Sunday
+23-03-2025,Chicken Popcorn,3,29.3,0,Sunday
+23-03-2025,Coffee,108,29.3,0,Sunday
+23-03-2025,Tea,128,29.3,0,Sunday
+23-03-2025,Juice,58,29.3,0,Sunday
+24-03-2025,Dosa,104,33,0,Monday
+24-03-2025,Biryani,0,33,0,Monday
+24-03-2025,Chicken Popcorn,2,33,0,Monday
+24-03-2025,Coffee,156,33,0,Monday
+24-03-2025,Tea,122,33,0,Monday
+24-03-2025,Juice,76,33,0,Monday
+25-03-2025,Dosa,107,27,0,Tuesday
+25-03-2025,Biryani,0,27,0,Tuesday
+25-03-2025,Chicken Popcorn,4,27,0,Tuesday
+25-03-2025,Coffee,170,27,0,Tuesday
+25-03-2025,Tea,147,27,0,Tuesday
+25-03-2025,Juice,68,27,0,Tuesday
+26-03-2025,Dosa,34,30.5,1,Wednesday
+26-03-2025,Biryani,7,30.5,1,Wednesday
+26-03-2025,Chicken Popcorn,0,30.5,1,Wednesday
+26-03-2025,Coffee,29,30.5,1,Wednesday
+26-03-2025,Tea,50,30.5,1,Wednesday
+26-03-2025,Juice,19,30.5,1,Wednesday
+27-03-2025,Dosa,93,29.7,0,Thursday
+27-03-2025,Biryani,8,29.7,0,Thursday
+27-03-2025,Chicken Popcorn,7,29.7,0,Thursday
+27-03-2025,Coffee,185,29.7,0,Thursday
+27-03-2025,Tea,167,29.7,0,Thursday
+27-03-2025,Juice,84,29.7,0,Thursday
+28-03-2025,Dosa,77,34.5,0,Friday
+28-03-2025,Biryani,0,34.5,0,Friday
+28-03-2025,Chicken Popcorn,10,34.5,0,Friday
+28-03-2025,Coffee,162,34.5,0,Friday
+28-03-2025,Tea,140,34.5,0,Friday
+28-03-2025,Juice,71,34.5,0,Friday
+29-03-2025,Dosa,66,31.3,0,Saturday
+29-03-2025,Biryani,2,31.3,0,Saturday
+29-03-2025,Chicken Popcorn,1,31.3,0,Saturday
+29-03-2025,Coffee,126,31.3,0,Saturday
+29-03-2025,Tea,104,31.3,0,Saturday
+29-03-2025,Juice,49,31.3,0,Saturday
+30-03-2025,Dosa,58,29.9,0,Sunday
+30-03-2025,Biryani,0,29.9,0,Sunday
+30-03-2025,Chicken Popcorn,10,29.9,0,Sunday
+30-03-2025,Coffee,147,29.9,0,Sunday
+30-03-2025,Tea,116,29.9,0,Sunday
+30-03-2025,Juice,58,29.9,0,Sunday
+31-03-2025,Dosa,92,28.1,0,Monday
+31-03-2025,Biryani,0,28.1,0,Monday
+31-03-2025,Chicken Popcorn,0,28.1,0,Monday
+31-03-2025,Coffee,204,28.1,0,Monday
+31-03-2025,Tea,168,28.1,0,Monday
+31-03-2025,Juice,83,28.1,0,Monday
+01-04-2025,Dosa,109,35.8,0,Tuesday
+01-04-2025,Biryani,19,35.8,0,Tuesday
+01-04-2025,Chicken Popcorn,0,35.8,0,Tuesday
+01-04-2025,Coffee,151,35.8,0,Tuesday
+01-04-2025,Tea,135,35.8,0,Tuesday
+01-04-2025,Juice,92,35.8,0,Tuesday
+02-04-2025,Dosa,94,31.9,0,Wednesday
+02-04-2025,Biryani,14,31.9,0,Wednesday
+02-04-2025,Chicken Popcorn,7,31.9,0,Wednesday
+02-04-2025,Coffee,139,31.9,0,Wednesday
+02-04-2025,Tea,139,31.9,0,Wednesday
+02-04-2025,Juice,53,31.9,0,Wednesday
+03-04-2025,Dosa,104,30.3,0,Thursday
+03-04-2025,Biryani,0,30.3,0,Thursday
+03-04-2025,Chicken Popcorn,10,30.3,0,Thursday
+03-04-2025,Coffee,129,30.3,0,Thursday
+03-04-2025,Tea,125,30.3,0,Thursday
+03-04-2025,Juice,72,30.3,0,Thursday
+04-04-2025,Dosa,96,31.1,0,Friday
+04-04-2025,Biryani,0,31.1,0,Friday
+04-04-2025,Chicken Popcorn,13,31.1,0,Friday
+04-04-2025,Coffee,154,31.1,0,Friday
+04-04-2025,Tea,124,31.1,0,Friday
+04-04-2025,Juice,48,31.1,0,Friday
+05-04-2025,Dosa,68,41.9,0,Saturday
+05-04-2025,Biryani,0,41.9,0,Saturday
+05-04-2025,Chicken Popcorn,0,41.9,0,Saturday
+05-04-2025,Coffee,113,41.9,0,Saturday
+05-04-2025,Tea,90,41.9,0,Saturday
+05-04-2025,Juice,62,41.9,0,Saturday
+06-04-2025,Dosa,75,40.9,0,Sunday
+06-04-2025,Biryani,0,40.9,0,Sunday
+06-04-2025,Chicken Popcorn,0,40.9,0,Sunday
+06-04-2025,Coffee,119,40.9,0,Sunday
+06-04-2025,Tea,84,40.9,0,Sunday
+06-04-2025,Juice,74,40.9,0,Sunday
+07-04-2025,Dosa,98,34.8,0,Monday
+07-04-2025,Biryani,6,34.8,0,Monday
+07-04-2025,Chicken Popcorn,12,34.8,0,Monday
+07-04-2025,Coffee,172,34.8,0,Monday
+07-04-2025,Tea,132,34.8,0,Monday
+07-04-2025,Juice,101,34.8,0,Monday
+08-04-2025,Dosa,103,28.2,0,Tuesday
+08-04-2025,Biryani,9,28.2,0,Tuesday
+08-04-2025,Chicken Popcorn,0,28.2,0,Tuesday
+08-04-2025,Coffee,176,28.2,0,Tuesday
+08-04-2025,Tea,156,28.2,0,Tuesday
+08-04-2025,Juice,58,28.2,0,Tuesday
+09-04-2025,Dosa,83,32.8,0,Wednesday
+09-04-2025,Biryani,7,32.8,0,Wednesday
+09-04-2025,Chicken Popcorn,0,32.8,0,Wednesday
+09-04-2025,Coffee,151,32.8,0,Wednesday
+09-04-2025,Tea,139,32.8,0,Wednesday
+09-04-2025,Juice,78,32.8,0,Wednesday
+10-04-2025,Dosa,103,33.4,0,Thursday
+10-04-2025,Biryani,16,33.4,0,Thursday
+10-04-2025,Chicken Popcorn,16,33.4,0,Thursday
+10-04-2025,Coffee,132,33.4,0,Thursday
+10-04-2025,Tea,129,33.4,0,Thursday
+10-04-2025,Juice,93,33.4,0,Thursday
+11-04-2025,Dosa,57,35.2,1,Friday
+11-04-2025,Biryani,0,35.2,1,Friday
+11-04-2025,Chicken Popcorn,0,35.2,1,Friday
+11-04-2025,Coffee,44,35.2,1,Friday
+11-04-2025,Tea,50,35.2,1,Friday
+11-04-2025,Juice,28,35.2,1,Friday
+12-04-2025,Dosa,57,26.3,0,Saturday
+12-04-2025,Biryani,0,26.3,0,Saturday
+12-04-2025,Chicken Popcorn,7,26.3,0,Saturday
+12-04-2025,Coffee,139,26.3,0,Saturday
+12-04-2025,Tea,111,26.3,0,Saturday
+12-04-2025,Juice,55,26.3,0,Saturday
+13-04-2025,Dosa,31,31.8,1,Sunday
+13-04-2025,Biryani,0,31.8,1,Sunday
+13-04-2025,Chicken Popcorn,0,31.8,1,Sunday
+13-04-2025,Coffee,47,31.8,1,Sunday
+13-04-2025,Tea,40,31.8,1,Sunday
+13-04-2025,Juice,10,31.8,1,Sunday
+14-04-2025,Dosa,108,33.5,0,Monday
+14-04-2025,Biryani,0,33.5,0,Monday
+14-04-2025,Chicken Popcorn,4,33.5,0,Monday
+14-04-2025,Coffee,146,33.5,0,Monday
+14-04-2025,Tea,122,33.5,0,Monday
+14-04-2025,Juice,90,33.5,0,Monday
+15-04-2025,Dosa,106,33.3,0,Tuesday
+15-04-2025,Biryani,1,33.3,0,Tuesday
+15-04-2025,Chicken Popcorn,0,33.3,0,Tuesday
+15-04-2025,Coffee,156,33.3,0,Tuesday
+15-04-2025,Tea,118,33.3,0,Tuesday
+15-04-2025,Juice,75,33.3,0,Tuesday
+16-04-2025,Dosa,45,34.2,1,Wednesday
+16-04-2025,Biryani,3,34.2,1,Wednesday
+16-04-2025,Chicken Popcorn,9,34.2,1,Wednesday
+16-04-2025,Coffee,51,34.2,1,Wednesday
+16-04-2025,Tea,66,34.2,1,Wednesday
+16-04-2025,Juice,23,34.2,1,Wednesday
+17-04-2025,Dosa,87,29,0,Thursday
+17-04-2025,Biryani,1,29,0,Thursday
+17-04-2025,Chicken Popcorn,0,29,0,Thursday
+17-04-2025,Coffee,191,29,0,Thursday
+17-04-2025,Tea,155,29,0,Thursday
+17-04-2025,Juice,62,29,0,Thursday
+18-04-2025,Dosa,107,35,0,Friday
+18-04-2025,Biryani,0,35,0,Friday
+18-04-2025,Chicken Popcorn,1,35,0,Friday
+18-04-2025,Coffee,141,35,0,Friday
+18-04-2025,Tea,122,35,0,Friday
+18-04-2025,Juice,94,35,0,Friday
+19-04-2025,Dosa,64,27.8,0,Saturday
+19-04-2025,Biryani,9,27.8,0,Saturday
+19-04-2025,Chicken Popcorn,0,27.8,0,Saturday
+19-04-2025,Coffee,142,27.8,0,Saturday
+19-04-2025,Tea,100,27.8,0,Saturday
+19-04-2025,Juice,28,27.8,0,Saturday
+20-04-2025,Dosa,70,27.5,0,Sunday
+20-04-2025,Biryani,3,27.5,0,Sunday
+20-04-2025,Chicken Popcorn,5,27.5,0,Sunday
+20-04-2025,Coffee,138,27.5,0,Sunday
+20-04-2025,Tea,107,27.5,0,Sunday
+20-04-2025,Juice,60,27.5,0,Sunday
+21-04-2025,Dosa,104,32.8,0,Monday
+21-04-2025,Biryani,7,32.8,0,Monday
+21-04-2025,Chicken Popcorn,1,32.8,0,Monday
+21-04-2025,Coffee,158,32.8,0,Monday
+21-04-2025,Tea,125,32.8,0,Monday
+21-04-2025,Juice,52,32.8,0,Monday
+22-04-2025,Dosa,87,28.5,0,Tuesday
+22-04-2025,Biryani,0,28.5,0,Tuesday
+22-04-2025,Chicken Popcorn,0,28.5,0,Tuesday
+22-04-2025,Coffee,187,28.5,0,Tuesday
+22-04-2025,Tea,157,28.5,0,Tuesday
+22-04-2025,Juice,57,28.5,0,Tuesday
+23-04-2025,Dosa,92,29.4,0,Wednesday
+23-04-2025,Biryani,10,29.4,0,Wednesday
+23-04-2025,Chicken Popcorn,0,29.4,0,Wednesday
+23-04-2025,Coffee,202,29.4,0,Wednesday
+23-04-2025,Tea,161,29.4,0,Wednesday
+23-04-2025,Juice,74,29.4,0,Wednesday
+24-04-2025,Dosa,93,32.3,0,Thursday
+24-04-2025,Biryani,0,32.3,0,Thursday
+24-04-2025,Chicken Popcorn,0,32.3,0,Thursday
+24-04-2025,Coffee,154,32.3,0,Thursday
+24-04-2025,Tea,96,32.3,0,Thursday
+24-04-2025,Juice,51,32.3,0,Thursday
+25-04-2025,Dosa,77,28.9,0,Friday
+25-04-2025,Biryani,5,28.9,0,Friday
+25-04-2025,Chicken Popcorn,0,28.9,0,Friday
+25-04-2025,Coffee,197,28.9,0,Friday
+25-04-2025,Tea,148,28.9,0,Friday
+25-04-2025,Juice,89,28.9,0,Friday
+26-04-2025,Dosa,83,31,0,Saturday
+26-04-2025,Biryani,0,31,0,Saturday
+26-04-2025,Chicken Popcorn,0,31,0,Saturday
+26-04-2025,Coffee,128,31,0,Saturday
+26-04-2025,Tea,89,31,0,Saturday
+26-04-2025,Juice,66,31,0,Saturday
+27-04-2025,Dosa,84,26,0,Sunday
+27-04-2025,Biryani,0,26,0,Sunday
+27-04-2025,Chicken Popcorn,0,26,0,Sunday
+27-04-2025,Coffee,110,26,0,Sunday
+27-04-2025,Tea,103,26,0,Sunday
+27-04-2025,Juice,52,26,0,Sunday
+28-04-2025,Dosa,110,31.3,0,Monday
+28-04-2025,Biryani,13,31.3,0,Monday
+28-04-2025,Chicken Popcorn,2,31.3,0,Monday
+28-04-2025,Coffee,146,31.3,0,Monday
+28-04-2025,Tea,137,31.3,0,Monday
+28-04-2025,Juice,62,31.3,0,Monday
+29-04-2025,Dosa,84,30.9,0,Tuesday
+29-04-2025,Biryani,0,30.9,0,Tuesday
+29-04-2025,Chicken Popcorn,0,30.9,0,Tuesday
+29-04-2025,Coffee,154,30.9,0,Tuesday
+29-04-2025,Tea,133,30.9,0,Tuesday
+29-04-2025,Juice,57,30.9,0,Tuesday
+30-04-2025,Dosa,35,34,1,Wednesday
+30-04-2025,Biryani,13,34,1,Wednesday
+30-04-2025,Chicken Popcorn,8,34,1,Wednesday
+30-04-2025,Coffee,57,34,1,Wednesday
+30-04-2025,Tea,56,34,1,Wednesday
+30-04-2025,Juice,29,34,1,Wednesday
+01-05-2025,Dosa,100,36.4,0,Thursday
+01-05-2025,Biryani,0,36.4,0,Thursday
+01-05-2025,Chicken Popcorn,1,36.4,0,Thursday
+01-05-2025,Coffee,165,36.4,0,Thursday
+01-05-2025,Tea,113,36.4,0,Thursday
+01-05-2025,Juice,77,36.4,0,Thursday
+02-05-2025,Dosa,134,30.7,0,Friday
+02-05-2025,Biryani,9,30.7,0,Friday
+02-05-2025,Chicken Popcorn,11,30.7,0,Friday
+02-05-2025,Coffee,160,30.7,0,Friday
+02-05-2025,Tea,145,30.7,0,Friday
+02-05-2025,Juice,55,30.7,0,Friday
+03-05-2025,Dosa,36,31.3,1,Saturday
+03-05-2025,Biryani,0,31.3,1,Saturday
+03-05-2025,Chicken Popcorn,0,31.3,1,Saturday
+03-05-2025,Coffee,29,31.3,1,Saturday
+03-05-2025,Tea,38,31.3,1,Saturday
+03-05-2025,Juice,11,31.3,1,Saturday
+04-05-2025,Dosa,65,33.1,0,Sunday
+04-05-2025,Biryani,14,33.1,0,Sunday
+04-05-2025,Chicken Popcorn,5,33.1,0,Sunday
+04-05-2025,Coffee,107,33.1,0,Sunday
+04-05-2025,Tea,94,33.1,0,Sunday
+04-05-2025,Juice,61,33.1,0,Sunday
+05-05-2025,Dosa,98,33,0,Monday
+05-05-2025,Biryani,1,33,0,Monday
+05-05-2025,Chicken Popcorn,2,33,0,Monday
+05-05-2025,Coffee,175,33,0,Monday
+05-05-2025,Tea,148,33,0,Monday
+05-05-2025,Juice,69,33,0,Monday
+06-05-2025,Dosa,102,26.9,0,Tuesday
+06-05-2025,Biryani,0,26.9,0,Tuesday
+06-05-2025,Chicken Popcorn,0,26.9,0,Tuesday
+06-05-2025,Coffee,168,26.9,0,Tuesday
+06-05-2025,Tea,156,26.9,0,Tuesday
+06-05-2025,Juice,62,26.9,0,Tuesday
+07-05-2025,Dosa,77,31.6,0,Wednesday
+07-05-2025,Biryani,0,31.6,0,Wednesday
+07-05-2025,Chicken Popcorn,0,31.6,0,Wednesday
+07-05-2025,Coffee,166,31.6,0,Wednesday
+07-05-2025,Tea,116,31.6,0,Wednesday
+07-05-2025,Juice,85,31.6,0,Wednesday
+08-05-2025,Dosa,106,33.7,0,Thursday
+08-05-2025,Biryani,2,33.7,0,Thursday
+08-05-2025,Chicken Popcorn,3,33.7,0,Thursday
+08-05-2025,Coffee,151,33.7,0,Thursday
+08-05-2025,Tea,126,33.7,0,Thursday
+08-05-2025,Juice,107,33.7,0,Thursday
+09-05-2025,Dosa,102,39,0,Friday
+09-05-2025,Biryani,4,39,0,Friday
+09-05-2025,Chicken Popcorn,0,39,0,Friday
+09-05-2025,Coffee,135,39,0,Friday
+09-05-2025,Tea,113,39,0,Friday
+09-05-2025,Juice,75,39,0,Friday
+10-05-2025,Dosa,55,31,0,Saturday
+10-05-2025,Biryani,0,31,0,Saturday
+10-05-2025,Chicken Popcorn,3,31,0,Saturday
+10-05-2025,Coffee,110,31,0,Saturday
+10-05-2025,Tea,79,31,0,Saturday
+10-05-2025,Juice,54,31,0,Saturday
+11-05-2025,Dosa,74,35.3,0,Sunday
+11-05-2025,Biryani,0,35.3,0,Sunday
+11-05-2025,Chicken Popcorn,2,35.3,0,Sunday
+11-05-2025,Coffee,88,35.3,0,Sunday
+11-05-2025,Tea,83,35.3,0,Sunday
+11-05-2025,Juice,54,35.3,0,Sunday
+12-05-2025,Dosa,102,28.6,0,Monday
+12-05-2025,Biryani,4,28.6,0,Monday
+12-05-2025,Chicken Popcorn,0,28.6,0,Monday
+12-05-2025,Coffee,178,28.6,0,Monday
+12-05-2025,Tea,165,28.6,0,Monday
+12-05-2025,Juice,68,28.6,0,Monday
+13-05-2025,Dosa,101,30.9,0,Tuesday
+13-05-2025,Biryani,0,30.9,0,Tuesday
+13-05-2025,Chicken Popcorn,0,30.9,0,Tuesday
+13-05-2025,Coffee,128,30.9,0,Tuesday
+13-05-2025,Tea,123,30.9,0,Tuesday
+13-05-2025,Juice,60,30.9,0,Tuesday
+14-05-2025,Dosa,102,32.7,0,Wednesday
+14-05-2025,Biryani,0,32.7,0,Wednesday
+14-05-2025,Chicken Popcorn,5,32.7,0,Wednesday
+14-05-2025,Coffee,142,32.7,0,Wednesday
+14-05-2025,Tea,123,32.7,0,Wednesday
+14-05-2025,Juice,52,32.7,0,Wednesday
+15-05-2025,Dosa,108,34.1,0,Thursday
+15-05-2025,Biryani,0,34.1,0,Thursday
+15-05-2025,Chicken Popcorn,0,34.1,0,Thursday
+15-05-2025,Coffee,134,34.1,0,Thursday
+15-05-2025,Tea,125,34.1,0,Thursday
+15-05-2025,Juice,98,34.1,0,Thursday
+16-05-2025,Dosa,92,28.7,0,Friday
+16-05-2025,Biryani,18,28.7,0,Friday
+16-05-2025,Chicken Popcorn,0,28.7,0,Friday
+16-05-2025,Coffee,186,28.7,0,Friday
+16-05-2025,Tea,153,28.7,0,Friday
+16-05-2025,Juice,83,28.7,0,Friday
+17-05-2025,Dosa,87,24.2,0,Saturday
+17-05-2025,Biryani,0,24.2,0,Saturday
+17-05-2025,Chicken Popcorn,10,24.2,0,Saturday
+17-05-2025,Coffee,125,24.2,0,Saturday
+17-05-2025,Tea,119,24.2,0,Saturday
+17-05-2025,Juice,47,24.2,0,Saturday
+18-05-2025,Dosa,57,32.6,0,Sunday
+18-05-2025,Biryani,0,32.6,0,Sunday
+18-05-2025,Chicken Popcorn,0,32.6,0,Sunday
+18-05-2025,Coffee,88,32.6,0,Sunday
+18-05-2025,Tea,102,32.6,0,Sunday
+18-05-2025,Juice,47,32.6,0,Sunday
+19-05-2025,Dosa,100,31.6,0,Monday
+19-05-2025,Biryani,0,31.6,0,Monday
+19-05-2025,Chicken Popcorn,17,31.6,0,Monday
+19-05-2025,Coffee,130,31.6,0,Monday
+19-05-2025,Tea,129,31.6,0,Monday
+19-05-2025,Juice,77,31.6,0,Monday
+20-05-2025,Dosa,88,37.5,0,Tuesday
+20-05-2025,Biryani,6,37.5,0,Tuesday
+20-05-2025,Chicken Popcorn,18,37.5,0,Tuesday
+20-05-2025,Coffee,148,37.5,0,Tuesday
+20-05-2025,Tea,138,37.5,0,Tuesday
+20-05-2025,Juice,87,37.5,0,Tuesday
+21-05-2025,Dosa,96,36.7,0,Wednesday
+21-05-2025,Biryani,0,36.7,0,Wednesday
+21-05-2025,Chicken Popcorn,5,36.7,0,Wednesday
+21-05-2025,Coffee,143,36.7,0,Wednesday
+21-05-2025,Tea,141,36.7,0,Wednesday
+21-05-2025,Juice,88,36.7,0,Wednesday
+22-05-2025,Dosa,101,30.6,0,Thursday
+22-05-2025,Biryani,0,30.6,0,Thursday
+22-05-2025,Chicken Popcorn,0,30.6,0,Thursday
+22-05-2025,Coffee,144,30.6,0,Thursday
+22-05-2025,Tea,128,30.6,0,Thursday
+22-05-2025,Juice,55,30.6,0,Thursday
+23-05-2025,Dosa,115,30.1,0,Friday
+23-05-2025,Biryani,12,30.1,0,Friday
+23-05-2025,Chicken Popcorn,12,30.1,0,Friday
+23-05-2025,Coffee,154,30.1,0,Friday
+23-05-2025,Tea,129,30.1,0,Friday
+23-05-2025,Juice,64,30.1,0,Friday
+24-05-2025,Dosa,69,32,0,Saturday
+24-05-2025,Biryani,0,32,0,Saturday
+24-05-2025,Chicken Popcorn,5,32,0,Saturday
+24-05-2025,Coffee,101,32,0,Saturday
+24-05-2025,Tea,94,32,0,Saturday
+24-05-2025,Juice,48,32,0,Saturday
+25-05-2025,Dosa,62,32.5,0,Sunday
+25-05-2025,Biryani,4,32.5,0,Sunday
+25-05-2025,Chicken Popcorn,2,32.5,0,Sunday
+25-05-2025,Coffee,85,32.5,0,Sunday
+25-05-2025,Tea,102,32.5,0,Sunday
+25-05-2025,Juice,48,32.5,0,Sunday
+26-05-2025,Dosa,98,37.8,0,Monday
+26-05-2025,Biryani,0,37.8,0,Monday
+26-05-2025,Chicken Popcorn,0,37.8,0,Monday
+26-05-2025,Coffee,155,37.8,0,Monday
+26-05-2025,Tea,128,37.8,0,Monday
+26-05-2025,Juice,87,37.8,0,Monday
+27-05-2025,Dosa,100,35.2,0,Tuesday
+27-05-2025,Biryani,10,35.2,0,Tuesday
+27-05-2025,Chicken Popcorn,0,35.2,0,Tuesday
+27-05-2025,Coffee,155,35.2,0,Tuesday
+27-05-2025,Tea,131,35.2,0,Tuesday
+27-05-2025,Juice,106,35.2,0,Tuesday
+28-05-2025,Dosa,123,34,0,Wednesday
+28-05-2025,Biryani,0,34,0,Wednesday
+28-05-2025,Chicken Popcorn,6,34,0,Wednesday
+28-05-2025,Coffee,143,34,0,Wednesday
+28-05-2025,Tea,129,34,0,Wednesday
+28-05-2025,Juice,100,34,0,Wednesday
+29-05-2025,Dosa,102,34.3,0,Thursday
+29-05-2025,Biryani,0,34.3,0,Thursday
+29-05-2025,Chicken Popcorn,16,34.3,0,Thursday
+29-05-2025,Coffee,167,34.3,0,Thursday
+29-05-2025,Tea,125,34.3,0,Thursday
+29-05-2025,Juice,91,34.3,0,Thursday
+30-05-2025,Dosa,113,31.4,0,Friday
+30-05-2025,Biryani,0,31.4,0,Friday
+30-05-2025,Chicken Popcorn,2,31.4,0,Friday
+30-05-2025,Coffee,141,31.4,0,Friday
+30-05-2025,Tea,117,31.4,0,Friday
+30-05-2025,Juice,64,31.4,0,Friday
+31-05-2025,Dosa,73,29.2,0,Saturday
+31-05-2025,Biryani,0,29.2,0,Saturday
+31-05-2025,Chicken Popcorn,6,29.2,0,Saturday
+31-05-2025,Coffee,105,29.2,0,Saturday
+31-05-2025,Tea,93,29.2,0,Saturday
+31-05-2025,Juice,52,29.2,0,Saturday
+01-06-2025,Dosa,69,35.9,0,Sunday
+01-06-2025,Biryani,14,35.9,0,Sunday
+01-06-2025,Chicken Popcorn,7,35.9,0,Sunday
+01-06-2025,Coffee,81,35.9,0,Sunday
+01-06-2025,Tea,78,35.9,0,Sunday
+01-06-2025,Juice,58,35.9,0,Sunday
+02-06-2025,Dosa,116,35.6,0,Monday
+02-06-2025,Biryani,15,35.6,0,Monday
+02-06-2025,Chicken Popcorn,7,35.6,0,Monday
+02-06-2025,Coffee,152,35.6,0,Monday
+02-06-2025,Tea,118,35.6,0,Monday
+02-06-2025,Juice,91,35.6,0,Monday
+03-06-2025,Dosa,94,30.2,0,Tuesday
+03-06-2025,Biryani,0,30.2,0,Tuesday
+03-06-2025,Chicken Popcorn,0,30.2,0,Tuesday
+03-06-2025,Coffee,146,30.2,0,Tuesday
+03-06-2025,Tea,120,30.2,0,Tuesday
+03-06-2025,Juice,86,30.2,0,Tuesday
+04-06-2025,Dosa,102,32,0,Wednesday
+04-06-2025,Biryani,0,32,0,Wednesday
+04-06-2025,Chicken Popcorn,0,32,0,Wednesday
+04-06-2025,Coffee,147,32,0,Wednesday
+04-06-2025,Tea,120,32,0,Wednesday
+04-06-2025,Juice,86,32,0,Wednesday
+05-06-2025,Dosa,74,30.7,0,Thursday
+05-06-2025,Biryani,0,30.7,0,Thursday
+05-06-2025,Chicken Popcorn,0,30.7,0,Thursday
+05-06-2025,Coffee,143,30.7,0,Thursday
+05-06-2025,Tea,132,30.7,0,Thursday
+05-06-2025,Juice,77,30.7,0,Thursday
+06-06-2025,Dosa,102,29.9,0,Friday
+06-06-2025,Biryani,0,29.9,0,Friday
+06-06-2025,Chicken Popcorn,0,29.9,0,Friday
+06-06-2025,Coffee,173,29.9,0,Friday
+06-06-2025,Tea,160,29.9,0,Friday
+06-06-2025,Juice,71,29.9,0,Friday
+07-06-2025,Dosa,81,31.5,0,Saturday
+07-06-2025,Biryani,0,31.5,0,Saturday
+07-06-2025,Chicken Popcorn,0,31.5,0,Saturday
+07-06-2025,Coffee,100,31.5,0,Saturday
+07-06-2025,Tea,100,31.5,0,Saturday
+07-06-2025,Juice,35,31.5,0,Saturday
+08-06-2025,Dosa,65,32.2,0,Sunday
+08-06-2025,Biryani,0,32.2,0,Sunday
+08-06-2025,Chicken Popcorn,0,32.2,0,Sunday
+08-06-2025,Coffee,103,32.2,0,Sunday
+08-06-2025,Tea,92,32.2,0,Sunday
+08-06-2025,Juice,51,32.2,0,Sunday
+09-06-2025,Dosa,118,30.8,0,Monday
+09-06-2025,Biryani,24,30.8,0,Monday
+09-06-2025,Chicken Popcorn,3,30.8,0,Monday
+09-06-2025,Coffee,142,30.8,0,Monday
+09-06-2025,Tea,114,30.8,0,Monday
+09-06-2025,Juice,59,30.8,0,Monday
+10-06-2025,Dosa,103,30.8,0,Tuesday
+10-06-2025,Biryani,0,30.8,0,Tuesday
+10-06-2025,Chicken Popcorn,0,30.8,0,Tuesday
+10-06-2025,Coffee,146,30.8,0,Tuesday
+10-06-2025,Tea,118,30.8,0,Tuesday
+10-06-2025,Juice,65,30.8,0,Tuesday
+11-06-2025,Dosa,102,31.4,0,Wednesday
+11-06-2025,Biryani,0,31.4,0,Wednesday
+11-06-2025,Chicken Popcorn,4,31.4,0,Wednesday
+11-06-2025,Coffee,132,31.4,0,Wednesday
+11-06-2025,Tea,122,31.4,0,Wednesday
+11-06-2025,Juice,81,31.4,0,Wednesday
+12-06-2025,Dosa,27,31.8,1,Thursday
+12-06-2025,Biryani,0,31.8,1,Thursday
+12-06-2025,Chicken Popcorn,15,31.8,1,Thursday
+12-06-2025,Coffee,58,31.8,1,Thursday
+12-06-2025,Tea,37,31.8,1,Thursday
+12-06-2025,Juice,16,31.8,1,Thursday
+13-06-2025,Dosa,101,31.8,0,Friday
+13-06-2025,Biryani,0,31.8,0,Friday
+13-06-2025,Chicken Popcorn,0,31.8,0,Friday
+13-06-2025,Coffee,162,31.8,0,Friday
+13-06-2025,Tea,131,31.8,0,Friday
+13-06-2025,Juice,64,31.8,0,Friday
+14-06-2025,Dosa,69,33.2,0,Saturday
+14-06-2025,Biryani,5,33.2,0,Saturday
+14-06-2025,Chicken Popcorn,14,33.2,0,Saturday
+14-06-2025,Coffee,103,33.2,0,Saturday
+14-06-2025,Tea,82,33.2,0,Saturday
+14-06-2025,Juice,77,33.2,0,Saturday
+15-06-2025,Dosa,64,31.7,0,Sunday
+15-06-2025,Biryani,0,31.7,0,Sunday
+15-06-2025,Chicken Popcorn,0,31.7,0,Sunday
+15-06-2025,Coffee,91,31.7,0,Sunday
+15-06-2025,Tea,100,31.7,0,Sunday
+15-06-2025,Juice,44,31.7,0,Sunday
+16-06-2025,Dosa,109,33.7,0,Monday
+16-06-2025,Biryani,7,33.7,0,Monday
+16-06-2025,Chicken Popcorn,12,33.7,0,Monday
+16-06-2025,Coffee,158,33.7,0,Monday
+16-06-2025,Tea,136,33.7,0,Monday
+16-06-2025,Juice,96,33.7,0,Monday
+17-06-2025,Dosa,92,35.4,0,Tuesday
+17-06-2025,Biryani,10,35.4,0,Tuesday
+17-06-2025,Chicken Popcorn,0,35.4,0,Tuesday
+17-06-2025,Coffee,155,35.4,0,Tuesday
+17-06-2025,Tea,118,35.4,0,Tuesday
+17-06-2025,Juice,92,35.4,0,Tuesday
+18-06-2025,Dosa,117,32.9,0,Wednesday
+18-06-2025,Biryani,1,32.9,0,Wednesday
+18-06-2025,Chicken Popcorn,8,32.9,0,Wednesday
+18-06-2025,Coffee,164,32.9,0,Wednesday
+18-06-2025,Tea,140,32.9,0,Wednesday
+18-06-2025,Juice,63,32.9,0,Wednesday
+19-06-2025,Dosa,96,34.7,0,Thursday
+19-06-2025,Biryani,0,34.7,0,Thursday
+19-06-2025,Chicken Popcorn,1,34.7,0,Thursday
+19-06-2025,Coffee,150,34.7,0,Thursday
+19-06-2025,Tea,131,34.7,0,Thursday
+19-06-2025,Juice,93,34.7,0,Thursday
+20-06-2025,Dosa,82,34.6,0,Friday
+20-06-2025,Biryani,0,34.6,0,Friday
+20-06-2025,Chicken Popcorn,3,34.6,0,Friday
+20-06-2025,Coffee,153,34.6,0,Friday
+20-06-2025,Tea,125,34.6,0,Friday
+20-06-2025,Juice,78,34.6,0,Friday
+21-06-2025,Dosa,9,25.2,1,Saturday
+21-06-2025,Biryani,10,25.2,1,Saturday
+21-06-2025,Chicken Popcorn,1,25.2,1,Saturday
+21-06-2025,Coffee,72,25.2,1,Saturday
+21-06-2025,Tea,35,25.2,1,Saturday
+21-06-2025,Juice,32,25.2,1,Saturday
+22-06-2025,Dosa,69,32.6,0,Sunday
+22-06-2025,Biryani,2,32.6,0,Sunday
+22-06-2025,Chicken Popcorn,0,32.6,0,Sunday
+22-06-2025,Coffee,108,32.6,0,Sunday
+22-06-2025,Tea,85,32.6,0,Sunday
+22-06-2025,Juice,53,32.6,0,Sunday
+23-06-2025,Dosa,106,33,0,Monday
+23-06-2025,Biryani,0,33,0,Monday
+23-06-2025,Chicken Popcorn,0,33,0,Monday
+23-06-2025,Coffee,148,33,0,Monday
+23-06-2025,Tea,122,33,0,Monday
+23-06-2025,Juice,59,33,0,Monday
+24-06-2025,Dosa,51,34.3,1,Tuesday
+24-06-2025,Biryani,0,34.3,1,Tuesday
+24-06-2025,Chicken Popcorn,0,34.3,1,Tuesday
+24-06-2025,Coffee,61,34.3,1,Tuesday
+24-06-2025,Tea,53,34.3,1,Tuesday
+24-06-2025,Juice,39,34.3,1,Tuesday
+25-06-2025,Dosa,85,28.8,0,Wednesday
+25-06-2025,Biryani,0,28.8,0,Wednesday
+25-06-2025,Chicken Popcorn,2,28.8,0,Wednesday
+25-06-2025,Coffee,186,28.8,0,Wednesday
+25-06-2025,Tea,152,28.8,0,Wednesday
+25-06-2025,Juice,56,28.8,0,Wednesday
+26-06-2025,Dosa,84,30.6,0,Thursday
+26-06-2025,Biryani,0,30.6,0,Thursday
+26-06-2025,Chicken Popcorn,3,30.6,0,Thursday
+26-06-2025,Coffee,164,30.6,0,Thursday
+26-06-2025,Tea,125,30.6,0,Thursday
+26-06-2025,Juice,64,30.6,0,Thursday
+27-06-2025,Dosa,105,32.3,0,Friday
+27-06-2025,Biryani,0,32.3,0,Friday
+27-06-2025,Chicken Popcorn,0,32.3,0,Friday
+27-06-2025,Coffee,141,32.3,0,Friday
+27-06-2025,Tea,119,32.3,0,Friday
+27-06-2025,Juice,79,32.3,0,Friday
+28-06-2025,Dosa,73,31.6,0,Saturday
+28-06-2025,Biryani,3,31.6,0,Saturday
+28-06-2025,Chicken Popcorn,0,31.6,0,Saturday
+28-06-2025,Coffee,113,31.6,0,Saturday
+28-06-2025,Tea,96,31.6,0,Saturday
+28-06-2025,Juice,68,31.6,0,Saturday
+29-06-2025,Dosa,70,30.9,0,Sunday
+29-06-2025,Biryani,13,30.9,0,Sunday
+29-06-2025,Chicken Popcorn,6,30.9,0,Sunday
+29-06-2025,Coffee,111,30.9,0,Sunday
+29-06-2025,Tea,94,30.9,0,Sunday
+29-06-2025,Juice,47,30.9,0,Sunday
+30-06-2025,Dosa,36,38.3,1,Monday
+30-06-2025,Biryani,0,38.3,1,Monday
+30-06-2025,Chicken Popcorn,1,38.3,1,Monday
+30-06-2025,Coffee,71,38.3,1,Monday
+30-06-2025,Tea,50,38.3,1,Monday
+30-06-2025,Juice,32,38.3,1,Monday
